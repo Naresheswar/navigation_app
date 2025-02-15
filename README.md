@@ -14,7 +14,7 @@ A Flutter-based navigation app that utilizes OpenStreetMap for GPS navigation, s
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/navigation-app.git
+   git clone https://github.com/Naresheswar/navigation_app
    cd navigation-app
    ```
 2. Install dependencies:
